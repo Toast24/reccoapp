@@ -138,13 +138,6 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-(Feel free to replace with another license.)
-
----
-
 ## 📬 Contact
 
 **Author:** Toast24  
